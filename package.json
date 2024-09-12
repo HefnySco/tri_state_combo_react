@@ -1,0 +1,23 @@
+{
+  "name": "tri_state_combo_react",
+  "version": "1.0.0",
+  "description": "A simple tri state combo react component.",
+  "author": {
+    "email": "mohammad.hefny@gmail.com",
+    "name": "Mohammad Said Hefny",
+    "url": "https://github.com/HefnySco"
+  },
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src --out-dir dist",
+    "start": "node dist/yourfile.js"
+  },
+  "keywords": ["react", "combo", "tristate"],
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.25.6",
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.4",
+    "@babel/preset-react": "^7.24.7"
+  }
+}
