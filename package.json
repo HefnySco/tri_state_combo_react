@@ -1,16 +1,16 @@
 {
   "name": "tri_state_combo_react",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "description": "A simple tri state combo react component.",
   "author": {
     "email": "mohammad.hefny@gmail.com",
     "name": "Mohammad Said Hefny",
     "url": "https://github.com/HefnySco"
   },
-  "main": "index.js",
+  "main": "dist/jsc_mctl_tri_state_check.js",
   "scripts": {
     "build": "babel src --out-dir dist",
-    "start": "node dist/yourfile.js"
+    "start": "node dist/jsc_mctl_tri_state_check.js"
   },
   "keywords": ["react", "combo", "tristate"],
   "license": "MIT",
